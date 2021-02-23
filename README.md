@@ -1,3 +1,3 @@
-# machine-learning-ex1
+# machine-learning
 the assignment works of the course machine learning teached by Andrew Ng
-see the branch of each work
+see the folder of each work
